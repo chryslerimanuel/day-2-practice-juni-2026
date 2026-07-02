@@ -1,4 +1,4 @@
-name: Triggers Demo
+name: Version
 
 on:
   # Case A: setiap push ke branch tertentu
