@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main] --selain branch main ga akan aktif ci.yml nya
+    branches: [main] #selain branch main ga akan aktif ci.yml nya
   pull_request:
     branches: [main]
 
